@@ -2,3 +2,5 @@
 - The frontend is client side and backend is server side.
 - HTTP defines how clients and servers work (HyperText Transfer Protocol)
 - Servers provide an API (Application Programming Interface)
+- Servers provide endpoints that the client can talk to to access data.
+- The endpoints provide the interface that clients use to access the server
