@@ -1,0 +1,4 @@
+- A website has a Frontend and Backend.
+- The frontend is client side and backend is server side.
+- HTTP defines how clients and servers work (HyperText Transfer Protocol)
+- Servers provide an API (Application Programming Interface)
