@@ -1,0 +1,690 @@
+the number is less than 5 
+0
+the number is less than 5 
+1
+the number is less than 5 
+2
+the number is less than 5 
+3
+the number is less than 5 
+4
+the number is greater than or equal to 5 
+5
+the number is greater than or equal to 5 
+6
+the number is greater than or equal to 5 
+7
+the number is greater than or equal to 5 
+8
+the number is greater than or equal to 5 
+9
+the number is greater than or equal to 5 
+10
+the number is greater than or equal to 5 
+11
+the number is greater than or equal to 5 
+12
+the number is greater than or equal to 5 
+13
+the number is greater than or equal to 5 
+14
+the number is greater than or equal to 5 
+15
+the number is greater than or equal to 5 
+16
+the number is greater than or equal to 5 
+17
+the number is greater than or equal to 5 
+18
+the number is greater than or equal to 5 
+19
+the number is greater than or equal to 5 
+20
+the number is greater than or equal to 5 
+21
+the number is greater than or equal to 5 
+22
+the number is greater than or equal to 5 
+23
+the number is greater than or equal to 5 
+24
+the number is greater than or equal to 5 
+25
+the number is greater than or equal to 5 
+26
+the number is greater than or equal to 5 
+27
+the number is greater than or equal to 5 
+28
+the number is greater than or equal to 5 
+29
+the number is greater than or equal to 5 
+30
+the number is greater than or equal to 5 
+31
+the number is greater than or equal to 5 
+32
+the number is greater than or equal to 5 
+33
+the number is greater than or equal to 5 
+34
+the number is greater than or equal to 5 
+35
+the number is greater than or equal to 5 
+36
+the number is greater than or equal to 5 
+37
+the number is greater than or equal to 5 
+38
+the number is greater than or equal to 5 
+39
+the number is greater than or equal to 5 
+40
+the number is greater than or equal to 5 
+41
+the number is greater than or equal to 5 
+42
+the number is greater than or equal to 5 
+43
+the number is greater than or equal to 5 
+44
+the number is greater than or equal to 5 
+45
+the number is greater than or equal to 5 
+46
+the number is greater than or equal to 5 
+47
+the number is greater than or equal to 5 
+48
+the number is greater than or equal to 5 
+49
+the number is greater than or equal to 5 
+50
+the number is greater than or equal to 5 
+51
+the number is greater than or equal to 5 
+52
+the number is greater than or equal to 5 
+53
+the number is greater than or equal to 5 
+54
+the number is greater than or equal to 5 
+55
+the number is greater than or equal to 5 
+56
+the number is greater than or equal to 5 
+57
+the number is greater than or equal to 5 
+58
+the number is greater than or equal to 5 
+59
+the number is greater than or equal to 5 
+60
+the number is greater than or equal to 5 
+61
+the number is greater than or equal to 5 
+62
+the number is greater than or equal to 5 
+63
+the number is greater than or equal to 5 
+64
+the number is greater than or equal to 5 
+65
+the number is greater than or equal to 5 
+66
+the number is greater than or equal to 5 
+67
+the number is greater than or equal to 5 
+68
+the number is greater than or equal to 5 
+69
+the number is greater than or equal to 5 
+70
+the number is greater than or equal to 5 
+71
+the number is greater than or equal to 5 
+72
+the number is greater than or equal to 5 
+73
+the number is greater than or equal to 5 
+74
+the number is greater than or equal to 5 
+75
+the number is greater than or equal to 5 
+76
+the number is greater than or equal to 5 
+77
+the number is greater than or equal to 5 
+78
+the number is greater than or equal to 5 
+79
+the number is greater than or equal to 5 
+80
+the number is greater than or equal to 5 
+81
+the number is greater than or equal to 5 
+82
+the number is greater than or equal to 5 
+83
+the number is greater than or equal to 5 
+84
+the number is greater than or equal to 5 
+85
+the number is greater than or equal to 5 
+86
+the number is greater than or equal to 5 
+87
+the number is greater than or equal to 5 
+88
+the number is greater than or equal to 5 
+89
+the number is greater than or equal to 5 
+90
+the number is greater than or equal to 5 
+91
+the number is greater than or equal to 5 
+92
+the number is greater than or equal to 5 
+93
+the number is greater than or equal to 5 
+94
+the number is greater than or equal to 5 
+95
+the number is greater than or equal to 5 
+96
+the number is greater than or equal to 5 
+97
+the number is greater than or equal to 5 
+98
+the number is greater than or equal to 5 
+99
+the number is greater than or equal to 5 
+100
+the number is greater than or equal to 5 
+101
+the number is greater than or equal to 5 
+102
+the number is greater than or equal to 5 
+103
+the number is greater than or equal to 5 
+104
+the number is greater than or equal to 5 
+105
+the number is greater than or equal to 5 
+106
+the number is greater than or equal to 5 
+107
+the number is greater than or equal to 5 
+108
+the number is greater than or equal to 5 
+109
+the number is greater than or equal to 5 
+110
+the number is greater than or equal to 5 
+111
+the number is greater than or equal to 5 
+112
+the number is greater than or equal to 5 
+113
+the number is greater than or equal to 5 
+114
+the number is greater than or equal to 5 
+115
+the number is greater than or equal to 5 
+116
+the number is greater than or equal to 5 
+117
+the number is greater than or equal to 5 
+118
+the number is greater than or equal to 5 
+119
+the number is greater than or equal to 5 
+120
+the number is greater than or equal to 5 
+121
+the number is greater than or equal to 5 
+122
+the number is greater than or equal to 5 
+123
+the number is greater than or equal to 5 
+124
+the number is greater than or equal to 5 
+125
+the number is greater than or equal to 5 
+126
+the number is greater than or equal to 5 
+127
+the number is greater than or equal to 5 
+128
+the number is greater than or equal to 5 
+129
+the number is greater than or equal to 5 
+130
+the number is greater than or equal to 5 
+131
+the number is greater than or equal to 5 
+132
+the number is greater than or equal to 5 
+133
+the number is greater than or equal to 5 
+134
+the number is greater than or equal to 5 
+135
+the number is greater than or equal to 5 
+136
+the number is greater than or equal to 5 
+137
+the number is greater than or equal to 5 
+138
+the number is greater than or equal to 5 
+139
+the number is greater than or equal to 5 
+140
+the number is greater than or equal to 5 
+141
+the number is greater than or equal to 5 
+142
+the number is greater than or equal to 5 
+143
+the number is greater than or equal to 5 
+144
+the number is greater than or equal to 5 
+145
+the number is greater than or equal to 5 
+146
+the number is greater than or equal to 5 
+147
+the number is greater than or equal to 5 
+148
+the number is greater than or equal to 5 
+149
+the number is greater than or equal to 5 
+150
+the number is greater than or equal to 5 
+151
+the number is greater than or equal to 5 
+152
+the number is greater than or equal to 5 
+153
+the number is greater than or equal to 5 
+154
+the number is greater than or equal to 5 
+155
+the number is greater than or equal to 5 
+156
+the number is greater than or equal to 5 
+157
+the number is greater than or equal to 5 
+158
+the number is greater than or equal to 5 
+159
+the number is greater than or equal to 5 
+160
+the number is greater than or equal to 5 
+161
+the number is greater than or equal to 5 
+162
+the number is greater than or equal to 5 
+163
+the number is greater than or equal to 5 
+164
+the number is greater than or equal to 5 
+165
+the number is greater than or equal to 5 
+166
+the number is greater than or equal to 5 
+167
+the number is greater than or equal to 5 
+168
+the number is greater than or equal to 5 
+169
+the number is greater than or equal to 5 
+170
+the number is greater than or equal to 5 
+171
+the number is greater than or equal to 5 
+172
+the number is greater than or equal to 5 
+173
+the number is greater than or equal to 5 
+174
+the number is greater than or equal to 5 
+175
+the number is greater than or equal to 5 
+176
+the number is greater than or equal to 5 
+177
+the number is greater than or equal to 5 
+178
+the number is greater than or equal to 5 
+179
+the number is greater than or equal to 5 
+180
+the number is greater than or equal to 5 
+181
+the number is greater than or equal to 5 
+182
+the number is greater than or equal to 5 
+183
+the number is greater than or equal to 5 
+184
+the number is greater than or equal to 5 
+185
+the number is greater than or equal to 5 
+186
+the number is greater than or equal to 5 
+187
+the number is greater than or equal to 5 
+188
+the number is greater than or equal to 5 
+189
+the number is greater than or equal to 5 
+190
+the number is greater than or equal to 5 
+191
+the number is greater than or equal to 5 
+192
+the number is greater than or equal to 5 
+193
+the number is greater than or equal to 5 
+194
+the number is greater than or equal to 5 
+195
+the number is greater than or equal to 5 
+196
+the number is greater than or equal to 5 
+197
+the number is greater than or equal to 5 
+198
+the number is greater than or equal to 5 
+199
+the number is greater than or equal to 5 
+200
+the number is greater than or equal to 5 
+201
+the number is greater than or equal to 5 
+202
+the number is greater than or equal to 5 
+203
+the number is greater than or equal to 5 
+204
+the number is greater than or equal to 5 
+205
+the number is greater than or equal to 5 
+206
+the number is greater than or equal to 5 
+207
+the number is greater than or equal to 5 
+208
+the number is greater than or equal to 5 
+209
+the number is greater than or equal to 5 
+210
+the number is greater than or equal to 5 
+211
+the number is greater than or equal to 5 
+212
+the number is greater than or equal to 5 
+213
+the number is greater than or equal to 5 
+214
+the number is greater than or equal to 5 
+215
+the number is greater than or equal to 5 
+216
+the number is greater than or equal to 5 
+217
+the number is greater than or equal to 5 
+218
+the number is greater than or equal to 5 
+219
+the number is greater than or equal to 5 
+220
+the number is greater than or equal to 5 
+221
+the number is greater than or equal to 5 
+222
+the number is greater than or equal to 5 
+223
+the number is greater than or equal to 5 
+224
+the number is greater than or equal to 5 
+225
+the number is greater than or equal to 5 
+226
+the number is greater than or equal to 5 
+227
+the number is greater than or equal to 5 
+228
+the number is greater than or equal to 5 
+229
+the number is greater than or equal to 5 
+230
+the number is greater than or equal to 5 
+231
+the number is greater than or equal to 5 
+232
+the number is greater than or equal to 5 
+233
+the number is greater than or equal to 5 
+234
+the number is greater than or equal to 5 
+235
+the number is greater than or equal to 5 
+236
+the number is greater than or equal to 5 
+237
+the number is greater than or equal to 5 
+238
+the number is greater than or equal to 5 
+239
+the number is greater than or equal to 5 
+240
+the number is greater than or equal to 5 
+241
+the number is greater than or equal to 5 
+242
+the number is greater than or equal to 5 
+243
+the number is greater than or equal to 5 
+244
+the number is greater than or equal to 5 
+245
+the number is greater than or equal to 5 
+246
+the number is greater than or equal to 5 
+247
+the number is greater than or equal to 5 
+248
+the number is greater than or equal to 5 
+249
+the number is greater than or equal to 5 
+250
+the number is greater than or equal to 5 
+251
+the number is greater than or equal to 5 
+252
+the number is greater than or equal to 5 
+253
+the number is greater than or equal to 5 
+254
+the number is greater than or equal to 5 
+255
+the number is greater than or equal to 5 
+256
+the number is greater than or equal to 5 
+257
+the number is greater than or equal to 5 
+258
+the number is greater than or equal to 5 
+259
+the number is greater than or equal to 5 
+260
+the number is greater than or equal to 5 
+261
+the number is greater than or equal to 5 
+262
+the number is greater than or equal to 5 
+263
+the number is greater than or equal to 5 
+264
+the number is greater than or equal to 5 
+265
+the number is greater than or equal to 5 
+266
+the number is greater than or equal to 5 
+267
+the number is greater than or equal to 5 
+268
+the number is greater than or equal to 5 
+269
+the number is greater than or equal to 5 
+270
+the number is greater than or equal to 5 
+271
+the number is greater than or equal to 5 
+272
+the number is greater than or equal to 5 
+273
+the number is greater than or equal to 5 
+274
+the number is greater than or equal to 5 
+275
+the number is greater than or equal to 5 
+276
+the number is greater than or equal to 5 
+277
+the number is greater than or equal to 5 
+278
+the number is greater than or equal to 5 
+279
+the number is greater than or equal to 5 
+280
+the number is greater than or equal to 5 
+281
+the number is greater than or equal to 5 
+282
+the number is greater than or equal to 5 
+283
+the number is greater than or equal to 5 
+284
+the number is greater than or equal to 5 
+285
+the number is greater than or equal to 5 
+286
+the number is greater than or equal to 5 
+287
+the number is greater than or equal to 5 
+288
+the number is greater than or equal to 5 
+289
+the number is greater than or equal to 5 
+290
+the number is greater than or equal to 5 
+291
+the number is greater than or equal to 5 
+292
+the number is greater than or equal to 5 
+293
+the number is greater than or equal to 5 
+294
+the number is greater than or equal to 5 
+295
+the number is greater than or equal to 5 
+296
+the number is greater than or equal to 5 
+297
+the number is greater than or equal to 5 
+298
+the number is greater than or equal to 5 
+299
+the number is greater than or equal to 5 
+300
+the number is greater than or equal to 5 
+301
+the number is greater than or equal to 5 
+302
+the number is greater than or equal to 5 
+303
+the number is greater than or equal to 5 
+304
+the number is greater than or equal to 5 
+305
+the number is greater than or equal to 5 
+306
+the number is greater than or equal to 5 
+307
+the number is greater than or equal to 5 
+308
+the number is greater than or equal to 5 
+309
+the number is greater than or equal to 5 
+310
+the number is greater than or equal to 5 
+311
+the number is greater than or equal to 5 
+312
+the number is greater than or equal to 5 
+313
+the number is greater than or equal to 5 
+314
+the number is greater than or equal to 5 
+315
+the number is greater than or equal to 5 
+316
+the number is greater than or equal to 5 
+317
+the number is greater than or equal to 5 
+318
+the number is greater than or equal to 5 
+319
+the number is greater than or equal to 5 
+320
+the number is greater than or equal to 5 
+321
+the number is greater than or equal to 5 
+322
+the number is greater than or equal to 5 
+323
+the number is greater than or equal to 5 
+324
+the number is greater than or equal to 5 
+325
+the number is greater than or equal to 5 
+326
+the number is greater than or equal to 5 
+327
+the number is greater than or equal to 5 
+328
+the number is greater than or equal to 5 
+329
+the number is greater than or equal to 5 
+330
+the number is greater than or equal to 5 
+331
+the number is greater than or equal to 5 
+332
+the number is greater than or equal to 5 
+333
+the number is greater than or equal to 5 
+334
+the number is greater than or equal to 5 
+335
+the number is greater than or equal to 5 
+336
+the number is greater than or equal to 5 
+337
+the number is greater than or equal to 5 
+338
+the number is greater than or equal to 5 
+339
+the number is greater than or equal to 5 
+340
+the number is greater than or equal to 5 
+341
+the number is greater than or equal to 5 
+342
+the number is greater than or equal to 5 
+343
+the number is greater than or equal to 5 
+344
