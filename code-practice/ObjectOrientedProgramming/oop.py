@@ -35,3 +35,4 @@ course.add_student(s1)
 course.add_student(s2)
 
 print(course.get_average_grade())
+
